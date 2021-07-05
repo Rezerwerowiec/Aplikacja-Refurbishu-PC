@@ -1,0 +1,1 @@
+wmic memorychip get devicelocator, speed
